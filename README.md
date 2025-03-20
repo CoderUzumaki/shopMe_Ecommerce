@@ -18,7 +18,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/coderUzumaki/shopMe_Ecommerce.git
+    git clone https://github.com/CoderUzumaki/shopMe_Ecommerce.git
     ```
 
 2. **Navigate to the project directory:**
